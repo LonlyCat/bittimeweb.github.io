@@ -3650,17 +3650,17 @@ w=x.f
 v=B.bt(l,F.aQ(B.a1("Palapa Benefits",l,"bttm_benefits_title",B.a([],w),l),l,l,H.cX,l),l,l,l,l,D.j5,l,l)
 B.W(d,E.i,k).toString
 u=B.bt(l,F.aQ(B.a1(y.S,l,"bttm_benefits_description",B.a([],w),l),l,l,H.dP,l),l,l,l,l,D.M0,l,l)
-t=I.fN("static/image/bttm_liquidity.png",47,l,62)
+t=I.fN("static/image/bttm_liquidity.png",l,2,l)
 B.W(d,E.i,k).toString
 s=B.a1("Guarantee Liquidity",l,"bttm_benefits_item_title_1",B.a([],w),l)
 B.W(d,E.i,k).toString
 r=B.a1(y.n,l,"bttm_benefits_item_description_1",B.a([],w),l)
-q=I.fN("static/image/bttm_periodicReporting.png",47,l,62)
+q=I.fN("static/image/bttm_periodicReporting.png",l,2,l)
 B.W(d,E.i,k).toString
 p=B.a1("Periodic Reporting",l,"bttm_benefits_item_title_2",B.a([],w),l)
 B.W(d,E.i,k).toString
 o=B.a1(y.X,l,"bttm_benefits_item_description_2",B.a([],w),l)
-n=I.fN("static/image/bttm_tokenSupply.png",47,l,62)
+n=I.fN("static/image/bttm_tokenSupply.png",l,2,l)
 B.W(d,E.i,k).toString
 m=B.a1("Guarantee Token Supply",l,"bttm_benefits_item_title_3",B.a([],w),l)
 B.W(d,E.i,k).toString
@@ -3672,17 +3672,17 @@ w=x.f
 v=B.bt(l,F.aQ(B.a1("Palapa Benefits",l,"bttm_benefits_title",B.a([],w),l),l,l,H.dQ,C.a5),l,D.bJ,l,l,D.ed,l,l)
 B.W(d,E.i,k).toString
 u=F.aQ(B.a1(y.S,l,"bttm_benefits_description",B.a([],w),l),l,l,H.dO,C.a5)
-t=I.fN("static/image/bttm_liquidity.png",47,l,62)
+t=I.fN("static/image/bttm_liquidity.png",l,2,l)
 B.W(d,E.i,k).toString
 s=B.a1("Guarantee Liquidity",l,"bttm_benefits_item_title_1",B.a([],w),l)
 B.W(d,E.i,k).toString
 r=B.a1(y.n,l,"bttm_benefits_item_description_1",B.a([],w),l)
-q=I.fN("static/image/bttm_periodicReporting.png",47,l,62)
+q=I.fN("static/image/bttm_periodicReporting.png",l,2,l)
 B.W(d,E.i,k).toString
 p=B.a1("Periodic Reporting",l,"bttm_benefits_item_title_2",B.a([],w),l)
 B.W(d,E.i,k).toString
 o=B.a1(y.X,l,"bttm_benefits_item_description_2",B.a([],w),l)
-n=I.fN("static/image/bttm_tokenSupply.png",47,l,62)
+n=I.fN("static/image/bttm_tokenSupply.png",l,2,l)
 B.W(d,E.i,k).toString
 m=B.a1("Guarantee Token Supply",l,"bttm_benefits_item_title_3",B.a([],w),l)
 B.W(d,E.i,k).toString
@@ -9255,4 +9255,4 @@ v($,"bcf","aRO",()=>{var u=B.M("r")
 return new A.ah1(B.z(u,B.M("a5<fp>")),B.z(u,x.D))})
 v($,"bca","aRM",()=>G.aHH($.aFR()))
 v($,"bcj","aGD",()=>G.aHH($.a8b()))})()}
-$__dart_deferred_initializers__["PaY2G6A8/KmM5b239y8NbWrrWKA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["EnJzqZTpuBS+Rh6lpSt1qxC7W2M="] = $__dart_deferred_initializers__.current
