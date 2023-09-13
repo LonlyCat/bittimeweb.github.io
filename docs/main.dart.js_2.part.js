@@ -3627,7 +3627,7 @@ B.W(d,E.i,q).toString
 s=I.aD4(s,B.bt(C.y,F.aQ(B.a1("Download our whitepaper",r,"bttm_white_paper_download",B.a([],w),r),r,r,D.a4q,C.a5),r,r,D.DY,r,r,D.Ml,r),16,new A.anK(d),D.mu)
 B.W(d,E.i,q).toString
 q=x.p
-return B.bt(r,F.bZ(B.a([v,u,D.kB,t,O.hX,s,O.Er,F.aQ(B.a1("Join the Palapa Community",r,"bttm_join",B.a([],w),r),r,r,H.cX,r),O.hX,N.WP(A.Gf(D.dS,B.a([A.BX(I.fN("static/image/bttm_telegram.png",r,r,r),new A.anL()),A.BX(I.fN("static/image/bttm_instagram.png",r,r,r),new A.anM()),A.BX(I.fN("static/image/bttm_twitter.png",r,r,r),new A.anN())],q),15,30),D.a0y)],q),C.W,C.t,C.a_),r,r,r,r,D.M5,D.cG,r)},
+return B.bt(r,F.bZ(B.a([v,u,D.kB,t,O.hX,s,O.Er,F.aQ(B.a1("Join the Palapa Community",r,"bttm_join",B.a([],w),r),r,r,H.cX,r),O.hX,N.WP(A.Gf(D.dS,B.a([A.BX(I.fN("static/image/bttm_telegram.png",r,2,r),new A.anL()),A.BX(I.fN("static/image/bttm_instagram.png",r,2,r),new A.anM()),A.BX(I.fN("static/image/bttm_twitter.png",r,2,r),new A.anN())],q),15,30),D.a0y)],q),C.W,C.t,C.a_),r,r,r,r,D.M5,D.cG,r)},
 hV(d){var w,v,u,t,s=null,r=x.t
 B.W(d,E.i,r).toString
 w=x.f
@@ -3639,7 +3639,7 @@ B.W(d,E.i,r).toString
 t=I.aD4(t,B.bt(C.y,F.aQ(B.a1("Download our whitepaper",s,"bttm_white_paper_download",B.a([],w),s),s,s,D.a4p,C.a5),s,D.GO,D.DY,s,s,D.Mk,s),16,new A.anG(d),D.mu)
 B.W(d,E.i,r).toString
 r=x.p
-return B.bt(C.y,B.bt(s,B.dI(B.a([F.bZ(B.a([v,u,D.a3q,t,D.a3p,F.aQ(B.a1("Join the Palapa Community",s,"bttm_join",B.a([],w),s),s,s,D.a7E,s),N.WP(A.Gf(D.dS,B.a([A.BX(I.fN("static/image/bttm_telegram.png",s,s,s),new A.anH()),A.BX(I.fN("static/image/bttm_instagram.png",s,s,s),new A.anI()),A.BX(I.fN("static/image/bttm_twitter.png",s,s,s),new A.anJ())],r),0,53),D.a0z)],r),C.W,C.t,C.a_),O.kD,N.WP(A.aJd("static/lottie/bttm_logo.json",604,604),D.a0k)],r),C.W,C.YK,C.B),s,s,s,s,s,D.cG,1360),s,s,s,s,D.LZ,s,s)}}
+return B.bt(C.y,B.bt(s,B.dI(B.a([F.bZ(B.a([v,u,D.a3q,t,D.a3p,F.aQ(B.a1("Join the Palapa Community",s,"bttm_join",B.a([],w),s),s,s,D.a7E,s),N.WP(A.Gf(D.dS,B.a([A.BX(I.fN("static/image/bttm_telegram.png",s,2,s),new A.anH()),A.BX(I.fN("static/image/bttm_instagram.png",s,2,s),new A.anI()),A.BX(I.fN("static/image/bttm_twitter.png",s,2,s),new A.anJ())],r),0,53),D.a0z)],r),C.W,C.t,C.a_),O.kD,N.WP(A.aJd("static/lottie/bttm_logo.json",604,604),D.a0k)],r),C.W,C.YK,C.B),s,s,s,s,s,D.cG,1360),s,s,s,s,D.LZ,s,s)}}
 A.me.prototype={
 G(d){var w=null
 return F.bZ(B.a([this.c,D.kB,new B.dA(D.lH,F.aQ(this.d,w,w,D.F1,C.a5),w),D.a3r,new B.dA(D.lH,F.aQ(this.e,w,w,D.F_,C.a5),w)],x.p),C.I,C.t,C.a_)}}
@@ -8566,7 +8566,7 @@ A.aoO.prototype={
 $1(d){return D.a3m},
 $S:92}
 A.aiQ.prototype={
-$1(d){return I.fN("static/image/"+d+".png",null,null,null)},
+$1(d){return I.fN("static/image/"+d+".png",null,2,null)},
 $S:z+12}
 A.axQ.prototype={
 $1(d){this.a.cl(0,d)},
@@ -9255,4 +9255,4 @@ v($,"bcf","aRO",()=>{var u=B.M("r")
 return new A.ah1(B.z(u,B.M("a5<fp>")),B.z(u,x.D))})
 v($,"bca","aRM",()=>G.aHH($.aFR()))
 v($,"bcj","aGD",()=>G.aHH($.a8b()))})()}
-$__dart_deferred_initializers__["EnJzqZTpuBS+Rh6lpSt1qxC7W2M="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["VtzUMxrerb3xW0pygxe/Dfi9Las="] = $__dart_deferred_initializers__.current
