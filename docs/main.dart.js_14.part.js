@@ -445,7 +445,7 @@ jK(d){var x=null,w=B.a([new B.n(4293524735),new B.n(4294114559)],y.O),v=y.p
 return B.bt(x,E.bZ(B.a([new B.h4(C.c6,x,x,G.fN("static/image/bttm_head_img.png",x,2,x),x),F.hX,E.bZ(B.a([B.dI(B.a([I.Wo(D.a7V,new A.a9d(d),x)],v),C.I,C.t,C.a_),F.Er,D.Du,D.F4],v),C.fi,C.t,C.B)],v),C.e9,C.t,C.a_),x,x,new B.dL(x,x,x,x,x,new G.mH(K.lw,M.lv,C.aU,w,x,x),C.an),x,new B.aJ(0,60,0,0),new B.aJ(40,40,40,40),x)},
 Fg(d){return this.hV(d)},
 hV(d){var x=null,w=y.p
-return B.bt(x,E.bZ(B.a([new B.h4(C.c6,x,x,G.fN("static/image/bttm_head_img.png",x,2,x),x),F.hX,B.dI(B.a([I.WP(B.dI(B.a([I.Wo(D.a7U,new A.a9c(d),x)],w),C.I,C.t,C.a_),D.a0B),F.kD,D.L_],w),C.W,C.t,C.B)],w),C.e9,C.t,C.a_),x,x,D.GX,x,F.mX,D.Mh,x)}}
+return B.bt(x,E.bZ(B.a([new B.h4(C.c6,x,x,G.fN("static/image/bttm_head_img.png",x,2,x),x),F.hX,B.dI(B.a([I.WP(B.dI(B.a([I.Wo(D.a7U,new A.a9c(d),x)],w),C.I,C.t,C.a_),D.a0B),F.kD,D.L0],w),C.W,C.t,C.B)],w),C.e9,C.t,C.a_),x,x,D.GX,x,F.mX,D.Mh,x)}}
 A.o0.prototype={
 cE(d){return this.f!==d.f}}
 A.ut.prototype={
@@ -1249,13 +1249,13 @@ D.O6=B.a(x([D.mz,D.mz,D.Kc]),y.O)
 D.Ny=new G.mH(N.d1,D.G0,C.aU,D.O6,null,null)
 D.GX=new B.dL(null,null,null,null,null,D.Ny,C.an)
 D.a4H=new B.x(!0,F.bK,null,null,null,null,16,C.az,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-D.a7Z=new B.i4("BTTM Token has been audited by",null,D.a4H,null,null,null,null)
-D.QF=B.a(x([D.a7Z]),y.p)
-D.Du=new B.Eu(C.aK,C.t,C.a_,C.I,null,C.c4,null,D.QF,null)
+D.a7Z=new B.i4("Palapa Token has been audited by",null,D.a4H,null,null,null,null)
+D.TK=B.a(x([D.a7Z]),y.p)
+D.Du=new B.Eu(C.aK,C.t,C.a_,C.I,null,C.c4,null,D.TK,null)
 D.a4I=new B.x(!0,F.bK,null,null,null,null,12,C.A,null,null,null,null,3,null,null,null,null,null,null,null,null,null,null,null,null,null)
-D.F4=new B.i4("\xa9 2023 BTTM. All rights reserved.",null,D.a4I,null,null,null,null)
-D.Q5=B.a(x([D.Du,D.F4]),y.p)
-D.L_=new E.uX(C.am,C.t,C.B,C.fi,null,C.c4,null,D.Q5,null)
+D.F4=new B.i4("\xa9 2023 Palapa. All rights reserved.",null,D.a4I,null,null,null,null)
+D.Wf=B.a(x([D.Du,D.F4]),y.p)
+D.L0=new E.uX(C.am,C.t,C.B,C.fi,null,C.c4,null,D.Wf,null)
 D.M8=new B.aJ(0,8,0,8)
 D.Mf=new B.aJ(24,0,16,0)
 D.Mh=new B.aJ(40,40,40,40)
@@ -1272,4 +1272,4 @@ D.a4J=new B.x(!0,F.bK,null,null,null,null,20,C.az,null,null,null,null,null,null,
 D.a7U=new B.i4("Terms",null,D.a4J,null,null,null,null)
 D.a4K=new B.x(!0,F.bK,null,null,null,null,22,C.az,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.a7V=new B.i4("Terms",null,D.a4K,null,null,null,null)})()}
-$__dart_deferred_initializers__["I4tOpqPO++p4UmcwDBM1oO6UBb0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["1owUW71+LzhAFHgrxuS/vk9AJS8="] = $__dart_deferred_initializers__.current

@@ -2012,7 +2012,7 @@ aW0(d,e,f){var w,v=B.eb(0,null,f.length,null,null),u=v-0
 if(d.length<e+u)throw B.c(B.eg(d,"target","Not big enough to hold "+u+" elements at position "+e))
 if(f!==d||0>=e)for(w=0;w<u;++w)d[e+w]=f[w]
 else for(w=u;--w,w>=0;)d[e+w]=f[w]},
-aHj(d,e){return(Q.VN[(d^e)&255]^d>>>8)>>>0},
+aHj(d,e){return(Q.VM[(d^e)&255]^d>>>8)>>>0},
 aB4(d){var w=0,v=B.R(x.I),u,t,s
 var $async$aB4=B.S(function(e,f){if(e===1)return B.O(f,v)
 while(true)switch(w){case 0:t=A
@@ -2313,7 +2313,7 @@ break
 case 2:s=d.bo()
 break
 case 3:i=d.cp()
-r=i>2||i<0?D.jq:D.Rs[i]
+r=i>2||i<0?D.jq:D.Rq[i]
 break
 case 4:q=d.cp()
 break
@@ -2642,7 +2642,7 @@ case 8:o=A.aCe(b8,b9)
 break
 case 9:b0=b8.cp()
 if(b0>=6){v.C(0,"Unsupported matte type: "+b0)
-break}a7=D.QT[b0]
+break}a7=D.QR[b0]
 if(a7===D.zr)v.C(0,"Unsupported matte type: Luma")
 else if(a7===D.zs)v.C(0,"Unsupported matte type: Luma Inverted");++b9.f
 break
@@ -5272,14 +5272,14 @@ w=w+v+")"
 return w.charCodeAt(0)==0?w:w}}
 A.ia.prototype={}
 A.Fo.prototype={
-d8(d){return new A.a55(D.Ub,B.cO(x.c8),this,C.X)},
+d8(d){return new A.a55(D.Ua,B.cO(x.c8),this,C.X)},
 aS(d){var w,v,u,t=null,s=d.aH(x.z)
 s.toString
 s=s.w
 w=B.a7Q(d,t)
 v=B.a([],x.w)
 u=B.hP(t,t,t,x.S,x.eA)
-s=new A.wY(D.Ua,4,7,u,D.lR,s,t,w,this.w,t,v,B.ap())
+s=new A.wY(D.U9,4,7,u,D.lR,s,t,w,this.w,t,v,B.ap())
 s.aQ()
 w=B.a([],x.M)
 C.c.sp(w,s.a4*s.a_)
@@ -5326,7 +5326,7 @@ r=new B.lM(u,new A.axq())
 q=B.a([],x.R)
 for(t=h.p3,p=x.bs,o=e.c,n=0;n<7;++n){m=o[n]
 l=r.t()
-k=l?u.gF(u).b:C.Uc
+k=l?u.gF(u).b:C.Ub
 j=B.a(new Array(4),p)
 for(i=0;i<4;++i)j[i]=new A.z8(i,n)
 q.push(new A.ia(null,h.W9(k,m.c,t,j)))}for(;r.t();)h.B_(u.gF(u).b,C.jE,t)
@@ -8532,17 +8532,17 @@ $S:0}
 A.anK.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,"https://t.me/BittimeOfficial","_blank")},
+return C.cy.qK(w,"https://t.me/PLPAOfficialCommunity","_blank")},
 $S:0}
 A.anL.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,y.E,"_blank")},
+return C.cy.qK(w,y.D,"_blank")},
 $S:0}
 A.anM.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,y.e,"_blank")},
+return C.cy.qK(w,"https://twitter.com/PLPAOfficial","_blank")},
 $S:0}
 A.anF.prototype={
 $0(){return this.a.wV(this.b)},
@@ -8550,17 +8550,17 @@ $S:0}
 A.anG.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,"https://t.me/BittimeOfficial","_blank")},
+return C.cy.qK(w,"https://t.me/PLPAOfficialCommunity","_blank")},
 $S:0}
 A.anH.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,y.E,"_blank")},
+return C.cy.qK(w,y.D,"_blank")},
 $S:0}
 A.anI.prototype={
 $0(){var w=window
 w.toString
-return C.cy.qK(w,y.e,"_blank")},
+return C.cy.qK(w,"https://twitter.com/PLPAOfficial","_blank")},
 $S:0}
 A.aoN.prototype={
 $1(d){return D.a3m},
@@ -9057,7 +9057,7 @@ v(A.a7d,B.at)
 w(A.K0,B.eB)})()
 B.eZ(b.typeUniverse,JSON.parse('{"D1":{"iA":["1"],"Id":["1"]},"KU":{"p":["o3"],"p.E":"o3"},"xE":{"ai":[],"e":[]},"VP":{"ai":[],"e":[]},"me":{"ai":[],"e":[]},"Li":{"ai":[],"e":[]},"WK":{"ai":[],"e":[]},"UU":{"ai":[],"e":[]},"Wl":{"ai":[],"e":[]},"TF":{"ai":[],"e":[]},"xT":{"V":[],"e":[]},"FO":{"K":[]},"a5F":{"a7":["xT"]},"a5C":{"am":[]},"a5D":{"am":[]},"ux":{"a7":["1"]},"BW":{"V":[],"e":[]},"a0X":{"a7":["BW"]},"ET":{"V":[],"e":[]},"a4b":{"a7":["ET"]},"mO":{"ev":["mO"],"ev.T":"mO"},"Ut":{"A":[],"aU":["A"],"v":[],"J":[],"ao":[]},"xr":{"fv":[],"nf":[],"e3":["A"],"jX":[],"cr":[]},"UL":{"pn":[],"d0":[],"an":["A","fv"],"v":[],"J":[],"ao":[],"an.1":"fv","an.0":"A"},"pA":{"dM":[],"cr":[]},"PM":{"Fq":[]},"Fp":{"K":[]},"wY":{"A":[],"v":[],"J":[],"ao":[]},"lP":{"dM":[],"e3":["A"],"cr":[]},"Gg":{"K":[]},"YZ":{"K":[]},"Ej":{"cI":["A","lP"],"A":[],"an":["A","lP"],"v":[],"J":[],"ao":[],"an.1":"lP","cI.1":"lP","an.0":"A"},"TV":{"ai":[],"e":[]},"Mv":{"aX":[],"aB":[],"e":[]},"YY":{"dH":[],"aB":[],"e":[]},"Qg":{"ai":[],"e":[]},"EQ":{"V":[],"e":[]},"tb":{"a7":["EQ"]},"HR":{"cc":["1"],"b0":["1"]},"a47":{"cc":["iG"],"b0":["iG"],"cc.T":"iG","b0.T":"iG"},"a_n":{"cc":["hI"],"b0":["hI"],"cc.T":"hI","b0.T":"hI"},"nD":{"cc":["1"],"b0":["1"],"cc.T":"1","b0.T":"1"},"ks":{"cc":["1"],"b0":["1"],"cc.T":"1","b0.T":"1"},"GW":{"cc":["1"],"b0":["1"],"cc.T":"1","b0.T":"1"},"IK":{"aR":[],"am":[]},"VK":{"ng":[],"aB":[],"e":[]},"Fo":{"aB":[],"e":[]},"a55":{"bH":[],"aH":[],"N":[]},"uF":{"eQ":[],"cg":[]},"oj":{"eQ":[],"ix":[],"cg":[]},"Bh":{"ix":[],"cg":[]},"Bq":{"eQ":[],"cg":[]},"BN":{"eQ":[],"cg":[]},"Qf":{"eQ":[],"cg":[]},"DA":{"ix":[],"cg":[]},"DR":{"ix":[],"cg":[]},"Ek":{"eQ":[],"ix":[],"cg":[],"aD0":[]},"x1":{"anf":[],"cg":[]},"EX":{"ix":[],"cg":[]},"Wd":{"eQ":[],"cg":[]},"jw":{"cg":[]},"mn":{"fD":["n","n"]},"bK":{"fD":["C","C"]},"BL":{"fD":["j6","j6"]},"l1":{"fD":["m","m"]},"Co":{"fD":["1","1"]},"wz":{"em":["i"],"em.T":"i"},"TH":{"fD":["i","i"]},"iz":{"fD":["i","i"]},"xj":{"fD":["ke","iw"]},"W3":{"fD":["i","i"]},"FC":{"fD":["mr","mr"]},"CC":{"V":[],"e":[]},"a1y":{"a7":["CC"]},"CD":{"V":[],"e":[]},"a1x":{"a7":["CD"]},"uv":{"d7":[]},"LD":{"d7":[]},"Qd":{"d7":[]},"Qe":{"d7":[]},"BO":{"K":[]},"rD":{"K":[]},"oZ":{"K":[]},"T_":{"d7":[]},"U4":{"d7":[]},"Um":{"d7":[]},"UP":{"d7":[]},"UY":{"d7":[]},"Vq":{"d7":[]},"tg":{"d7":[]},"Vs":{"d7":[]},"rw":{"K":[]},"rx":{"K":[]},"Vt":{"d7":[]},"EY":{"K":[]},"Vu":{"d7":[]},"rr":{"K":[]},"fE":{"eQ":[],"cg":[]},"MK":{"fE":[],"eQ":[],"cg":[]},"Qv":{"fE":[],"eQ":[],"cg":[]},"jZ":{"K":[]},"le":{"K":[]},"Tq":{"fE":[],"eQ":[],"cg":[]},"Vr":{"fE":[],"eQ":[],"cg":[]},"VU":{"fE":[],"eQ":[],"cg":[]},"Ww":{"fE":[],"eQ":[],"cg":[]},"iP":{"K":[]},"QG":{"bA":[]},"QJ":{"bA":[]},"QK":{"f3":[]},"wP":{"aB":[],"e":[]},"E8":{"A":[],"v":[],"J":[],"ao":[]},"TG":{"dB":[]},"em":{"em.T":"1"},"ix":{"cg":[]},"anf":{"cg":[]}}'))
 B.q6(b.typeUniverse,JSON.parse('{"ux":1,"ye":1,"HR":1,"a0i":1,"a4v":1,"a1n":1,"Co":1,"Le":2,"aZP":1}'))
-var y={V:"Immediate release of 10% upon token launch\n\nRemaining 90% to be vested on demand",c:"Immediate release of 2% upon token launch\n\nRemaining 98% to be vested linearly over 36 months, with equal monthly releases.",d:"Immediate release of 5% upon token launch\n\nRemaining 95% to be vested linearly over 48 months, with equal monthly releases.",Q:"Locked for 6 months\n\nVested linearly over 24 months, with equal monthly releases.",M:"Locked for 6 months\n\nVested linearly over 48 months, with equal monthly releases",O:"Maintain the supply of public tokens, so that the amount is not too much or too much",X:"Report company fundamentals periodically to token holders",S:"The Palapa token offers variety of utility features, including staking, boosting rewards, discounted trading fees, free withdrawals, loyalty rewards, token rewards and governance. This utility is designed to increase user engagement, encourage participation and create a seamless experience within the Palapa ecosystem.",A:"There will be a supply of 10,000,000,000 Palapa in the Palapa ecosystem. We expect gradual increase in demand as users are onboarded. With a limited supply, growing demand will increase the valuation of Palapas. Allocation will be as follows:",n:"Token liquidity will be maintained by listing on several CEXs in stages",t:"Use JsonReader.setLenient(true) to accept malformed JSON",r:"We have a clear roadmap for Palapa. This strategy aims to accelerate adoption, expand offerings as we progress, and deliver solutions that benefit our community. The roadmap will be updated in subsequence release of the litepaper.",s:"We have reputable, strong core team behind the Palapa Project. This team background varies from management consultants, financial services, and other notable crypto projects.",E:"https://instagram.com/bttm.official?igshid=NTc4MTIwNjQ2YQ==",e:"https://twitter.com/BTTMOfficial?t=BIRPT2slT2Q17cjNX3BS5g&s=05"}
+var y={V:"Immediate release of 10% upon token launch\n\nRemaining 90% to be vested on demand",c:"Immediate release of 2% upon token launch\n\nRemaining 98% to be vested linearly over 36 months, with equal monthly releases.",d:"Immediate release of 5% upon token launch\n\nRemaining 95% to be vested linearly over 48 months, with equal monthly releases.",Q:"Locked for 6 months\n\nVested linearly over 24 months, with equal monthly releases.",M:"Locked for 6 months\n\nVested linearly over 48 months, with equal monthly releases",O:"Maintain the supply of public tokens, so that the amount is not too much or too much",X:"Report company fundamentals periodically to token holders",S:"The Palapa token offers variety of utility features, including staking, boosting rewards, discounted trading fees, free withdrawals, loyalty rewards, token rewards and governance. This utility is designed to increase user engagement, encourage participation and create a seamless experience within the Palapa ecosystem.",A:"There will be a supply of 10,000,000,000 Palapa in the Palapa ecosystem. We expect gradual increase in demand as users are onboarded. With a limited supply, growing demand will increase the valuation of Palapas. Allocation will be as follows:",n:"Token liquidity will be maintained by listing on several CEXs in stages",t:"Use JsonReader.setLenient(true) to accept malformed JSON",r:"We have a clear roadmap for Palapa. This strategy aims to accelerate adoption, expand offerings as we progress, and deliver solutions that benefit our community. The roadmap will be updated in subsequence release of the litepaper.",s:"We have reputable, strong core team behind the Palapa Project. This team background varies from management consultants, financial services, and other notable crypto projects.",D:"https://www.instagram.com/palapatokenofficial/"}
 var x=(function rtii(){var w=B.M
 return{cN:w("b0<b1>"),f_:w("fE"),k:w("aF"),r:w("dM"),eY:w("hH"),G:w("n"),d_:w("c6<r?>"),z:w("eu"),fb:w("mr"),A:w("eQ"),c8:w("aH"),bK:w("PY"),F:w("BD"),Y:w("fj"),dV:w("b76"),bF:w("bN<fO>"),bb:w("bN<iv>"),al:w("bN<fT>"),aI:w("jV<cH>"),h:w("BK"),J:w("j6"),eT:w("aD0"),I:w("ja"),C:w("o<c3>"),bm:w("o<o3>"),bE:w("o<fD<ke,iw>>"),e8:w("o<fD<m,m>>"),E:w("o<fD<r,r?>>"),b:w("o<fE>"),O:w("o<n>"),U:w("o<cg>"),gw:w("o<oj>"),l:w("o<d7>"),dc:w("o<ej>"),n:w("o<qO>"),fA:w("o<aD0>"),Q:w("o<em<i>>"),d:w("o<em<C>>"),c:w("o<em<m>>"),_:w("o<w7>"),ch:w("o<R7>"),j:w("o<R8>"),f:w("o<r>"),dN:w("o<i>"),v:w("o<ix>"),ce:w("o<t>"),cs:w("o<d1>"),bP:w("o<tg>"),db:w("o<anf>"),s:w("o<j>"),V:w("o<dY>"),az:w("o<xE>"),aN:w("o<ju>"),gU:w("o<pG>"),T:w("o<jw>"),gN:w("o<aZP<@>>"),p:w("o<e>"),fT:w("o<Z7>"),K:w("o<I0>"),gZ:w("o<Ix>"),R:w("o<ia>"),bs:w("o<z8>"),ba:w("o<a5v>"),w:w("o<C>"),X:w("o<m>"),M:w("o<A?>"),m:w("o<j?>"),u:w("o<~()>"),e9:w("o<~(b0<b1>)>"),aX:w("d"),fB:w("em<C>"),eF:w("bn<a7<V>>"),e:w("w7"),f7:w("w<oj>"),am:w("w<aH>"),eK:w("w<w7>"),L:w("w<m>"),f9:w("fo"),D:w("fp"),ev:w("R4"),ai:w("a3<j,Ak>"),au:w("a3<j,kX>"),bC:w("b7K"),W:w("is"),fG:w("D1<m>"),P:w("aI"),b7:w("aT<~(b0<b1>)>"),H:w("i"),g:w("ix"),bU:w("wz"),bN:w("fr"),f3:w("t"),x:w("A"),q:w("wY"),aa:w("bX<cg>"),t:w("iE"),gi:w("d1"),a:w("ke"),a9:w("tg"),ff:w("anf"),eZ:w("lx"),cn:w("xr"),dt:w("tj"),dF:w("fv"),N:w("j"),eO:w("bh<fp>"),gP:w("bh<mO>"),de:w("Fo"),gu:w("pA"),eA:w("Fq"),e7:w("aK<C>"),dd:w("ed"),gc:w("dk"),y:w("dl<j>"),gy:w("e"),Z:w("lP"),d6:w("bd<ja>"),bf:w("bd<ja?>"),bg:w("GW<mt>"),g1:w("ar<ja>"),go:w("ar<ja?>"),a7:w("ks<kP>"),cv:w("ks<kQ>"),gD:w("ks<hM>"),gh:w("ks<kR>"),fQ:w("nD<ow>"),eR:w("nD<ox>"),cO:w("nD<oz>"),i:w("C"),cp:w("@"),S:w("m"),ea:w("mg?"),dP:w("uU?"),dO:w("f4?"),B:w("A?"),dk:w("j?"),cD:w("C?"),o:w("~")}})();(function constants(){var w=a.makeConstList
 D.GO=new B.aF(435,1/0,0,1/0)
@@ -9110,14 +9110,14 @@ D.k5=new A.le(2,"invert")
 D.zr=new A.le(3,"luma")
 D.zs=new A.le(4,"lumaInverted")
 D.a_V=new A.le(5,"unknown")
-D.QT=B.a(w([D.k4,D.a_U,D.k5,D.zr,D.zs,D.a_V]),B.M("o<le>"))
+D.QR=B.a(w([D.k4,D.a_U,D.k5,D.zr,D.zs,D.a_V]),B.M("o<le>"))
 D.Nj=new A.rr(0,"leftAlign")
 D.Nk=new A.rr(1,"rightAlign")
-D.Rs=B.a(w([D.Nj,D.Nk,D.jq]),B.M("o<rr>"))
+D.Rq=B.a(w([D.Nj,D.Nk,D.jq]),B.M("o<rr>"))
 D.pN=B.a(w([D.nF,D.nG,D.nH]),B.M("o<rx>"))
 D.acA=B.a(w([]),x.V)
-D.Ub=B.a(w([]),x.R)
-D.Ua=B.a(w([]),x.M)
+D.Ua=B.a(w([]),x.R)
+D.U9=B.a(w([]),x.M)
 D.ke=new A.DB(1)
 D.Df=new A.DB(2)
 D.Wm=B.a(w([D.ke,D.Df]),B.M("o<DB>"))
@@ -9147,11 +9147,11 @@ D.a_G=new B.bM([C.a8,null,C.bA,null,C.dB,null],B.M("bM<fr,aI>"))
 D.a2M=new B.d4(D.a_G,B.M("d4<fr>"))
 D.mq=new B.n(4283419232)
 D.mi=new B.n(4278227269)
-D.Q9=B.a(w([D.mq,D.mi]),x.O)
-D.Nw=new I.mH(C.c6,C.dZ,C.aU,D.Q9,null,null)
+D.Q8=B.a(w([D.mq,D.mi]),x.O)
+D.Nw=new I.mH(C.c6,C.dZ,C.aU,D.Q8,null,null)
 D.DY=new N.ec(null,D.Nw,null,null,C.kE)
-D.Q8=B.a(w([D.mi,D.mq]),x.O)
-D.Nx=new I.mH(C.c6,C.dZ,C.aU,D.Q8,null,null)
+D.Q7=B.a(w([D.mi,D.mq]),x.O)
+D.Nx=new I.mH(C.c6,C.dZ,C.aU,D.Q7,null,null)
 D.DZ=new N.ec(null,D.Nx,null,null,C.kE)
 D.dK=new A.EY(0,"simultaneously")
 D.kt=new A.EY(1,"individually")
@@ -9255,4 +9255,4 @@ v($,"bcf","aRN",()=>{var u=B.M("r")
 return new A.ah0(B.z(u,B.M("a5<fp>")),B.z(u,x.D))})
 v($,"bca","aRL",()=>G.aHH($.aFR()))
 v($,"bcj","aGD",()=>G.aHH($.a8b()))})()}
-$__dart_deferred_initializers__["IhsFfxIzGOrz5R+HyRQ9pLkLrCE="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["oBldJ83MpsM0qtwgCdXz71jbv6o="] = $__dart_deferred_initializers__.current
